@@ -1,0 +1,43 @@
+---
+title: "Storytelling with Data Effectively"
+---
+
+The following is an opinionated summary of the masterpiece that all data professionals ought to have, "Storytelling with Data" by Cole Nussbaumer Knaflic. For a full appreciation of Nussbaumer's wisdom I highly recommend a purchase of her book [Click Here](https://a.co/d/fj3kUvt).
+
+<br/>
+
+------------------------------------------------------------------------
+
+### Book Chapters Descriptions
+
+1.  **The Importance of Context**
+
+    -   Who is your audience?
+    -   What do you need them to know or do?
+
+    The chapter emphasis the importance of having situational context, including the audience, communication mechanism, and desired tone.
+
+2.  **Choosing an Effective Visual**
+
+    -   What is the best way to show the data you want to communicate?
+    -   What particular graphic is appropriate for your data and intent?
+
+    Understanding of specific types of visuals to include but not limited to text, table, heatmap, line graph, slopegraph, vertical bar chart, vertical stacked bar chart, waterfall chart, horizontal bar chart, horizontal stacked bar chart, and square area graph; and the imperative to avoid donuts and pie charts.
+
+3.  **Clutter is your Enemy!**
+
+    -   How familiar you are with the Gestalt Principles of Visual Perception?
+
+    -   How much is enough?
+
+    Every single element in the canvas takes up cognitive load on the part of your audience. Identifying and eliminating clutter is the focus of this chapter. Also, alignment, strategic use of white space, and contrast as key components of thoughtful design are explored.
+
+4.  **Focus Your Audience's Attention**
+
+5.  **Think Like a Designer**
+
+6.  **Dissecting Model Visuals**
+
+7.  **Lessons in Storytelling**
+
+8.  **Pulling it all Together**
